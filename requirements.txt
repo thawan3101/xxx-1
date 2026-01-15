@@ -1,6 +1,1 @@
 streamlit
-numpy
-opencv-python
-pillow
-pytesseract
-pyzbar
